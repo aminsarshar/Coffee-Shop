@@ -34,7 +34,9 @@ Coffee-Shop/
 ## 📸 پیش‌نمایش
 
 <div align="center">
-  <img src="https://github.com/aminsarshar/Coffee-Shop/tree/master/public/images/CoffeeShop.png?raw=true" alt="Coffee Shop Preview" width="600"/>
+  <img src="![Preview](https://github.com/aminsarshar/Coffee-Shop/tree/master/public/images/CoffeeShop.png?raw=true)" alt="Coffee Shop Preview" width="600"/>
+![Preview](https://github.com/aminsarshar/Coffee-Shop/tree/master/public/images/CoffeeShop.png?raw=true)
+
 </div>
 
 ## 🚀 نحوه اجرا
